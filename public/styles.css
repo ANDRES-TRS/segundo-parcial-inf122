@@ -41,6 +41,6 @@ button {
 }
 .metasStatus {
     display: grid;
-    grid-template-columns: fill(687px) auto; /* Ajuste del ancho */
-    justify-content: space-between; /* Ajuste del espacio entre elementos */
+    grid-template-columns: fill(687px) auto;
+    justify-content: space-between; 
 }
